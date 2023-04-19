@@ -1,0 +1,19 @@
+{
+    "oneDepth": {
+      "twoDepth": {
+        "threeDepth": {
+          "check": "확인",
+          "description": "설명",
+          "hour": "시",
+          "key": "키",
+          "locale": "한국",
+          "test": "테스트",
+          "time": "{value} 시간",
+          "value": "값",
+          "value-1": "값-1",
+          "value-2": "값-2",
+          "value-3": "값-3"
+        }
+      }
+    }
+  }
