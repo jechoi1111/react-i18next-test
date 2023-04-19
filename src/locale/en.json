@@ -1,21 +1,13 @@
 {
-  "translationTest" : {
-    "oneDepth": {
-      "twoDepth": {
-        "threeDepth": {
-          "check": "Check",
-          "description": "Description",
-          "hour": "Hour",
-          "key": "Key",
-          "locale": "US",
-          "test": "Test",
-          "time": "{value} Time",
-          "value": "Value",
-          "value-1": "Value-1",
-          "value-2": "Value-2",
-          "value-3": "Value-3"
-        }
-      }
-    }
-  }
+  "w.check": "Check",
+  "w.description": "Description",
+  "w.hour": "Hour",
+  "w.key": "Key",
+  "w.locale": "US",
+  "w.test": "Test",
+  "w.time": "{value} Time",
+  "w.value": "Value",
+  "w.value-1": "Value-1",
+  "w.value-2": "Value-2",
+  "w.value-3": "Value-3"
 }
